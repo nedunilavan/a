@@ -1,0 +1,9 @@
+<iostream>
+#include <fstream>
+using namespace std;
+
+#define FILENAME "lalala.txt"
+
+int main()
+{ 
+	if
